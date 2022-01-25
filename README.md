@@ -5,13 +5,14 @@ PCB files for Power Mainboard
 # Description
 
 This board enables the installation of a USB-C connection with a voltage and current regulator connected behind it.
-https://www.adafruit.com/product/4090
-https://www.adafruit.com/product/4654
+
+Like this... https://www.adafruit.com/product/4090 / https://www.adafruit.com/product/4654
 
 Used to operate your microcontroller board with constant voltage and regulated current via a USB-C power supply. - To limit over-voltage and over-current and prevent damage. 
 
-Furthermore, the LC... can be mounted on the bottom side.
-https://www.adafruit.com/product/4712
+Furthermore, the batterysensor can be mounted on the bottom side.
+
+Like this... https://www.adafruit.com/product/4712
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
