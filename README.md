@@ -1,25 +1,30 @@
 # USB-C_PCB
 
-Platzhalter - PCB files for two Adafruit Feather/FeatherWing on one PCB (side by side)
+PCB files for Power Mainboard
 
 # Description
 
-Platzhalter -Two Feather/FeatherWing can be placed side by side on this board.
+This board enables the installation of a USB-C connection with a voltage and current regulator connected behind it.
+https://www.adafruit.com/product/4090
+https://www.adafruit.com/product/4654
 
-Platzhalter -The Doubler 1X2, has a tripple duplicate breakout for each pin on a Feather, as well as a bunch of plain grid development holes. Also, the three sets of pins are cross connected and for GND(- or black) and 3.3V(+ or red), they give you a full strip of connected pads.
+Used to operate your microcontroller board with constant voltage and regulated current via a USB-C power supply. - To limit over-voltage and over-current and prevent damage. 
+
+Furthermore, the LC... can be mounted on the bottom side.
+https://www.adafruit.com/product/4712
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
 # Layout
 
 Top
-
+![UBS-C_Top](https://user-images.githubusercontent.com/88975406/151039578-4a1bd1d8-e253-4100-a26e-f1875aaa0e39.png)
 
 Bottom
-
+![UBS-C_Bottom](https://user-images.githubusercontent.com/88975406/151039588-77106081-790b-4184-9ab0-a85345fbacd3.png)
 
 Routing/Dimensions(inch)
-
+![UBS-C_v2 0](https://user-images.githubusercontent.com/88975406/151039596-23ac4856-366d-42a2-9cea-b28464cd3548.png)
 
 # License
 
