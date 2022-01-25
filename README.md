@@ -1,4 +1,5 @@
 # USB-C_PCB
+
 Platzhalter - PCB files for two Adafruit Feather/FeatherWing on one PCB (side by side)
 
 # Description
@@ -22,11 +23,12 @@ Routing/Dimensions(inch)
 
 # License
 
-x
+Open hardware, use it, mod it, whatever you want, feel free...
 
 # Thanks!
 
-x
+Own design and layout.
 
 # Version - Build
+
 v2.0 - 20.01.2022
