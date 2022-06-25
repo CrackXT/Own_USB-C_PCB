@@ -6,4 +6,10 @@ v2.0 - 20.01.2022
 - reWork (add LC709203F Slot)
 - polarity fix
 - INA219 removed
-- dimensions reduced
+- PCB downsized
+
+v3.0 - 25.06.2022
+- reWork (add INA219 and En(able) Pin)
+- LC709203F Slot removed
+- JST-PH switch from Side to Axial
+- LED switch from 0603 to 0805
