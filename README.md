@@ -15,13 +15,13 @@ The board can be produced here (AISLER) with the files (.brd and .sch) or by any
 # Layout
 
 Top
-![UBS-C_Top](https://user-images.githubusercontent.com/88975406/175777759-cedfbc6c-1aed-45e1-93f7-01008f99295d.png)
+![UBS-C_Top](https://user-images.githubusercontent.com/88975406/175777833-92ae3550-f415-4fb7-b330-d31a1386a492.png)
 
 Bottom
-![UBS-C_Bottom](https://user-images.githubusercontent.com/88975406/175777761-75bc0c3d-572c-44c5-ba95-0a6f80de6196.png)
+![UBS-C_Bottom](https://user-images.githubusercontent.com/88975406/175777837-161bcee9-0700-4461-b9ff-aa28f9ea2927.png)
 
 Routing/Dimensions(inch)
-![UBS-C_v3 0](https://user-images.githubusercontent.com/88975406/175777731-43ac51a5-99f7-484a-af73-4259fe25de7b.png)
+![UBS-C_v3 0](https://user-images.githubusercontent.com/88975406/175777824-0f61ae7c-6de1-407c-8aed-57d4d54fef3e.png)
 
 # License
 
