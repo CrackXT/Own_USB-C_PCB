@@ -13,3 +13,7 @@ v3.0 - 25.06.2022
 - LC709203F Slot removed
 - JST-PH switch from Side to Axial
 - LED switch from 0603 to 0805
+
+v3.1 - 26.06.2022
+- two resistor solder pads designed for combining the series resistor value
+- Font position optimized
