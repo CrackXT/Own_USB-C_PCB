@@ -9,7 +9,7 @@ part list for Use
 1x TPS61023 https://www.berrybase.de/adafruit-miniboost-5v-at-1a-tps61023
 
 # connector
-1x JST-PH (THT - Axial)  https://www.reichelt.de/jst-stiftleiste-gerade-1x2-polig-ph-jst-ph2p-st-p185049.html?&trstct=pos_11&nbc=1
+1x JST-PH2 (THT - Axial)  https://www.reichelt.de/jst-stiftleiste-gerade-1x2-polig-ph-jst-ph2p-st-p185049.html?&trstct=pos_11&nbc=1
 
 # led
 1x white 0805  https://www.reichelt.de/led-smd-0805-weiss-140-mcd-150--evl-17-21-t1d-c-p231641.html?&trstct=pol_7&nbc=1
