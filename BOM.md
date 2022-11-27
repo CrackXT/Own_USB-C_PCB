@@ -19,8 +19,10 @@ part list for Use
 
 # socket strips
 1x 1X4 https://www.reichelt.de/buchsenleiste-2-54mm-1x4-gerade-bkl-10120946-p266671.html?&trstct=pol_0&nbc=1
+
 1x 1X8 https://www.reichelt.de/buchsenleiste-2-54mm-1x8-gerade-bkl-10120949-p266674.html?&trstct=pol_1&nbc=1  
 
 # pin headers
 1x 1X36 (1X1, 1X4, 1X8) https://www.conrad.de/de/p/fischer-elektronik-stiftleiste-standard-anzahl-reihen-1-polzahl-je-reihe-36-sl-lp-1-082-36-z-1-st-739416.html
-1x 1X2  (Side) https://www.conrad.de/de/p/bkl-electronic-stiftleiste-standard-anzahl-reihen-1-polzahl-je-reihe-36-10120185-1-st-741373.html 
+
+1x 1X2 (Side) https://www.conrad.de/de/p/bkl-electronic-stiftleiste-standard-anzahl-reihen-1-polzahl-je-reihe-36-10120185-1-st-741373.html 
