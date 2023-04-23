@@ -27,7 +27,7 @@ Bottom
 Routing/Dimensions(inch)
 ![UBS-C_v3 1](https://user-images.githubusercontent.com/88975406/175815932-1b815d39-3452-4ca8-96f9-f16ae1c8c205.png)
 
-Schematic -> Schematic as .pdf at the top of the page
+Schematic -> Schematic as .pdf at the top of the page.
 
 # License
 
