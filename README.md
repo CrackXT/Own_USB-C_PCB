@@ -1,12 +1,12 @@
 # USB-C_PCB
 
-PCB files for Power Mainboard
+PCB files for USB Power Mainboard
 
 # Description
 
 This board enables the installation of a USB-C connection with a voltage and current regulator connected behind it.
 
-Like this... https://www.adafruit.com/product/4090 / https://www.adafruit.com/product/4654
+Like this... https://www.pololu.com/product/4083
 
 Used to operate your microcontroller board with constant voltage and regulated current via a USB-C power supply. - To limit over-voltage and over-current and prevent damage. 
 
@@ -19,13 +19,13 @@ The board can be produced here (AISLER) with the files (.brd and .sch) or by any
 # Layout
 
 Top
-![UBS-C_Top3_1](https://user-images.githubusercontent.com/88975406/175815903-87154e9b-3849-4593-bb1f-c91e1f318006.png)
+![UBS-C_Top_v4 0](https://user-images.githubusercontent.com/88975406/236670586-f33ac4a0-3581-4682-8616-d1903159fcdd.png)
 
 Bottom
-![UBS-C_Bottom3_1](https://user-images.githubusercontent.com/88975406/175815902-e960d498-71cf-408d-917d-ed6579625e84.png)
+![UBS-C_Bottom_v4 0](https://user-images.githubusercontent.com/88975406/236670581-70e7d010-48fd-4f41-b7f0-f1137d34ced6.png)
 
 Routing/Dimensions(inch)
-![UBS-C_v3 1](https://user-images.githubusercontent.com/88975406/175815932-1b815d39-3452-4ca8-96f9-f16ae1c8c205.png)
+![USB-C_v4 0](https://user-images.githubusercontent.com/88975406/236670575-2c4f1b8c-4897-441d-b510-0154cc25cac9.png)
 
 Schematic -> Schematic as .pdf at the top of the page.
 
@@ -39,4 +39,4 @@ Own design and layout.
 
 # Version - Build
 
-v3.1 - 26.06.2022
+v4.0 - 07.05.2023
