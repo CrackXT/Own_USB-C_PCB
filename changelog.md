@@ -17,3 +17,10 @@ v3.0 - 25.06.2022
 v3.1 - 26.06.2022
 - two resistor solder pads designed for combining the series resistor value
 - Font position optimized
+
+v4.0 - 07.05.2023
+- reWork (add nativ USB-C port (power only))
+- INA219 removed
+- Regulator switch from TPS61023 to S13V10F5
+- own "Font" Design
+- PCB downsized
