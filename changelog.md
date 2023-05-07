@@ -22,5 +22,5 @@ v4.0 - 07.05.2023
 - reWork (add nativ USB-C port (power only))
 - INA219 removed
 - Regulator switch from TPS61023 to S13V10F5
-- own "Font" Design
+- own "Font" Design (Logo, Serie)
 - PCB downsized
