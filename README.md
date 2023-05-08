@@ -12,6 +12,13 @@ Used to operate your microcontroller board with constant voltage and regulated c
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
+# Spec
+Vin:  2,8 - 22V
+
+Vout: 5V (typ., min.4,85V, max.5,15V)
+
+Iout: 1A
+
 # Serie
 
 - .pro
