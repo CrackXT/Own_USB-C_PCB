@@ -13,10 +13,8 @@ Used to operate your microcontroller board with constant voltage and regulated c
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
 # Spec
-Vin:  2,8 - 22V
-
-Vout: 5V (typ., min.4,85V, max.5,15V)
-
+Vin:  2,8 - 22V<br>
+Vout: 5V (typ., min.4,85V, max.5,15V)<br>
 Iout: 1A
 
 # Serie
@@ -25,16 +23,17 @@ Iout: 1A
 
 # Layout
 
-Top
+Top<br>
 ![UBS-C_Top_v4 0](https://user-images.githubusercontent.com/88975406/236670586-f33ac4a0-3581-4682-8616-d1903159fcdd.png)
 
-Bottom
+Bottom<br>
 ![UBS-C_Bottom_v4 0](https://user-images.githubusercontent.com/88975406/236670581-70e7d010-48fd-4f41-b7f0-f1137d34ced6.png)
 
-Routing/Dimensions(inch)
+Routing/Dimensions(inch)<br>
 ![USB-C_v4 0](https://user-images.githubusercontent.com/88975406/236670575-2c4f1b8c-4897-441d-b510-0154cc25cac9.png)
 
-Schematic -> Schematic as .pdf at the top of the page.
+Schematic<br>
+Schematic as .pdf at the top of the page.
 
 # License
 
