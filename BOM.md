@@ -15,9 +15,8 @@ part list for Use
 1x white 0805 https://www.digikey.de/de/products/detail/everlight-electronics-co-ltd/EAST2012WA1/11200795
 
 # resistor
-1x 2200ohm 0805 https://www.reichelt.de/smd-widerstand-0805-2-2-kohm-125-mw-0-1--spr-0805-2-20k-p123266.html?&trstct=pol_1&nbc=1
-
-2x 5100Ohm 0805 https://www.reichelt.de/smd-widerstand-0805-5-1-kohm-125-mw-0-1--spr-0805-5-10k-p123287.html?&trstct=pol_2&nbc=1
+1x 2200ohm 0805 https://www.reichelt.de/smd-widerstand-0805-2-2-kohm-125-mw-0-1--spr-0805-2-20k-p123266.html?&trstct=pol_1&nbc=1<br>
+2x 5100Ohm 0805 https://www.reichelt.de/smd-widerstand-0805-5-1-kohm-125-mw-0-1--spr-0805-5-10k-p123287.html?&trstct=pol_2&nbc=1<br>
 
 # capacitor
 1x 47µF 2220 https://www.digikey.de/de/products/detail/tdk-corporation/C5750X7R1V476M230KC/15930210
